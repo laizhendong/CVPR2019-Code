@@ -1,5 +1,4 @@
 # CVPR2019-Code
-
 CVPR 2019 论文开源项目合集
 
 - [目标检测](#Object-Detection)
